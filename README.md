@@ -1,3 +1,4 @@
-Insights-To-AtliQ-Hardware
+**🚀 Unlock the Power of Data with Atliq Hardwares!**
 
-Codesbasics Resume Project Challenge #4
+**SQL Queries:** Explore the queries used to answer the ad hoc requests.
+**Dataset & Metadata:** Access the dataset and metadata used in the project.
